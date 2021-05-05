@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "band_names_server",
+			"path": "."
+		},
+		{
+			"name": "models",
+			"path": "..\\..\\..\\Documents\\versionde de back en flutter\\flutter-socket.io-server-1.5.0\\models"
+		}
+	],
+	"settings": {}
+}
